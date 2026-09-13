@@ -1,16 +1,38 @@
-## Hi there 👋
+# Yuseong Ha
 
-<!--
-**everna44/everna44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. in Computer & Information Security with research interests in
+zero-day intrusion detection, graph neural networks, and
+out-of-distribution detection.
 
-Here are some ideas to get you started:
+## Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Operationally Constrained Zero-Day Intrusion Detection
+
+Published in *Applied Sciences* (2026).
+
+- Target-FPR calibrated intrusion detection
+- Zero-day / OOD evaluation
+- GCN, GIN, GraphSAGE, and GAT
+- KNN similarity graph construction
+- Operational tail-risk and false-alarm budget analysis
+
+**Paper:** https://doi.org/10.3390/app16052284
+
+**Clean Reimplementation:**  
+https://github.com/everna44/operational-zero-day-ids-reimplementation
+
+## Technical Focus
+
+- Python
+- PyTorch / PyTorch Geometric
+- Machine Learning
+- Graph Neural Networks
+- Intrusion Detection
+- Network Security
+- Out-of-Distribution Detection
+
+## Publication
+
+Y. Ha and K. Kim,  
+“Operationally Constrained Zero-Day Intrusion Detection with Target-FPR Calibration and Similarity Graph Construction,”  
+*Applied Sciences*, vol. 16, 2026, Art. no. 2284.
